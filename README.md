@@ -6,29 +6,19 @@ Example:
 var publisher = new socialPublisher({ 
 
  "twitter":
- 
  { 
- 
   "accessTokenSecret": "%%%",
-  
   "accessToken": "%%%",
-  
   "consumerKey": "%%%",
-  
   "secret": "%%%" 
-  
  },
  
  "facebook":
  
  {
- 
   "accessToken": "%%%",
-  
   "consumerKey": "%%%",
-  
   "secret": "%%%" 
-  
  }
  
 }); 
