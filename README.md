@@ -1,6 +1,6 @@
 # social-publisher
 facebook and twitter status update library for Meteor 
-
+ 
 Example:
 
 var publisher = new socialPublisher(
