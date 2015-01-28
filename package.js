@@ -1,7 +1,7 @@
 Package.describe({
   name: 'alexche:social-publisher',
   summary: 'facebook and twitter status update library ',
-  version: '1.0.0',
+  version: '1.0.2',
   git: 'https://github.com/alxche/social-publisher.git'
 });
 

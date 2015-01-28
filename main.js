@@ -40,9 +40,9 @@ socialPublisher.prototype = {
             var msg = {
                 message: text
             }
-
+ 
             var result = oa.call('POST',
-                "https://graph.facebook.com/v2.2/1783198641/feed?access_token="+config.accessToken,
+                "https://graph.facebook.com/v2.2/"+config.userId+"/feed?access_token="+config.accessToken,
                 msg
             );
         }
