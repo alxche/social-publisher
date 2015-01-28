@@ -15,6 +15,7 @@ var publisher = new socialPublisher({
  
  "facebook":
  {
+  "userId": "%%%"
   "accessToken": "%%%",
   "consumerKey": "%%%",
   "secret": "%%%" 
